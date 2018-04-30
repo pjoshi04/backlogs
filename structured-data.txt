@@ -50,7 +50,7 @@
     Make our resourcesync exchange protocol use changelists
 
     - [X] T053: Update ResourceSync spec to allow for separate changelist
-    - [.] T040: Update ResourceSync import code to allow for separate changelist (also check if update works)
+    - [X] T040: Update ResourceSync import code to allow for separate changelist (also check if update works)
     - [.] T042: Update ResourceSync generation code to provide a Changelist next to the resourcelist
     - [ ] T044: resourcesync update kunnen triggeren via graphql (dat betekent dat we per dataset moeten gaan bijhouden welke bron rs-url die had)
           a graphql mutation for launching a resourcesync
