@@ -1,4 +1,4 @@
-//current max task number: T110
+//current max task number: T111
 
 # 2018-04
   - [.] T104: Be able to browse from one dataset to another
@@ -20,6 +20,7 @@
   - [X] T054: configuratie van links naar buiten toe (e.g. geonames, url met afbeelding, obituary url)
   - [X] T100: IntegratieTests falen als, de build van Timbuctoo te langzaam is
         Dit gebeurd nu vooral op Dockerhub. Leuke bijvangst is dat we nu betere statusmessages kunnen tonen tijdens een import
+  - [ ] T110: Filter out "isClean" key and value from BdbWrapper data retrievals    
   B008: 2TBI-demo
     Datasets uploaden, zorgen dat de GUI configurabel genoeg is en eventuele bugs fixen zodat de demo werkt
     - [ ] T108: Demo breekt met upload nieuwe versie Timbuctoo
